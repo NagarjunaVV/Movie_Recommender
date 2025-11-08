@@ -47,7 +47,7 @@ except Exception as e:
 
 # --- Streamlit Web App UI ---
 
-st.title('Indian Movie Recommender')
+st.title('📽️ Indian Movie Recommender')
 st.markdown('Find movies similar to the one you like!')
 
 # Create a select box for movie selection
